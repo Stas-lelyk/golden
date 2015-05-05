@@ -282,7 +282,7 @@ h2.ss-subtitle:after{
     background-image: url(../images/22.jpg);
 }
 .ss-circle-23{
-    background-image: url(../images/23.jpg);
+    background-image: url('../images/23.jpg');
 }
 .ss-circle-24{
     background-image: url('../images/24.jpg');
