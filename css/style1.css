@@ -285,7 +285,7 @@ h2.ss-subtitle:after{
     background-image: url(../images/23.jpg);
 }
 .ss-circle-24{
-    background-image: url(../images/24.jpg);
+    background-image: url('../images/24.jpg');
 }
 .ss-circle-25{
     background-image: url(../images/25.jpg);
